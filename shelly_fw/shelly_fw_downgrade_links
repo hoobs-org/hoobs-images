@@ -1,0 +1,53 @@
+How to downgrade Shelly Firmware to v 1.7.4
+
+This fimware is compatible with homebridge-shelly plugin
+
+- Search the IP Adress of the affected Shelly and to got your browser
+- Enter the Link specific to your Shelly Model to your browser and 
+- change the IPADRESS to the affected Shelly
+- hit enter
+
+- This can take up to 5 minutes, refresh the Webinterface of your shelly and 
+check the Firmware should be then on 1.7.4, and the controlls in Homekit are back.
+
+NOTE: This is a temporary Workaround, we are searching for an solution with the Shelly Team and the homebridge-helly plugin developer
+
+Regards Bobby from HOOBS Inc.
+
+DEVICE SPECIFIC LINK LIST:
+
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHBDUO-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHBLB-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHBTN-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHCL-255_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHDM-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHDM-2_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHDW-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHEM_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHEM-3_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHGS-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHHT-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHIX3-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHPLG-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHPLG2-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHRGBW2_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHRGBW2-color_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHRGBW2-white_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHRGBWW-01_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSEN-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSM-01_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSM-02_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSPOT-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSW-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSW-21_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSW-25_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHSW-PM_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHVIN-1_build.zip
+http://IPADRESS/ota?url=http://two4you.business/shelly_fw/SHWT-1_build.zip
+
+
+
+
+
+
+
